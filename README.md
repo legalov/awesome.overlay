@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src="https://i.imgur.com/d3GYIid.png?" >
+  <img width="250" src="https://i.imgur.com/d3GYIid.png?" >
   <br>
   <br>
 </p>
@@ -19,8 +19,8 @@
 
 
 - [Overlay Website](https://y.at/♋🏛️♋)
-- [Overlay Forum] (https://gov.overlay.market/)
-- [Overlay Landing Page] (https://overlay.market/)
+- [Overlay Forum](https://gov.overlay.market/)
+- [Overlay Landing Page](https://overlay.market/)
 - [Overlay Discord](https://discord.gg/w5Z8Fen9WP)
 - [Overlay Twitter](https://twitter.com/OverlayProtocol)
 - [Overlay Telegram channel](https://t.me/joinchat/Vh4ghHUTZI53z5OH)
@@ -51,4 +51,4 @@
 
 
 ------
-###### This is not official Overlay hub / created by rskl#1210 (member of Synclab.team) / im not a part of Overlay team
+###### This is not official Overlay hub / created by rskl#1210 (member of [Synclab.team](https://synclab.team/) / im not a part of Overlay team
